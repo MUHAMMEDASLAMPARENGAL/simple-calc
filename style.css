@@ -24,8 +24,11 @@ h1{
     border-color: coral;
 }
 .button-operator{
-    background-color: #ffff;
-    width: 30px; 
-    border-radius: 1px;
-    border-color: #ffff;
+    background-color: rgb(255, 255, 255);
+    width: 35px; 
+    border-radius: 2.5px;
+    border-color: coral;
+}
+.button-operator:hover{
+    border-color: greenyellow;
 }
