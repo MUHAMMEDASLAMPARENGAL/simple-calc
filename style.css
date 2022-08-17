@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{font-family: 'Poppins', sans-serif;}
+h1{
+    text-align: center;
+}
+.calculator{
+    width: 300px;
+    height: 360px;
+    margin: auto;
+    background-color:coral;
+    padding: 25px;
+    border-radius: 10px;
+}
+#x{
+    border-radius: 9px;
+    border-color: coral;
+}
+#y{
+    border-radius: 9px;
+    border-color: coral;
+}
+#result{
+    border-radius: 9px;
+    border-color: coral;
+}
+.button-operator{
+    background-color: #ffff;
+    width: 30px; 
+    border-radius: 1px;
+    border-color: #ffff;
+}
